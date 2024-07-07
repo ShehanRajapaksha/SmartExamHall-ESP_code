@@ -105,4 +105,5 @@ This repository also contains additional sensor codes and scripts used during th
 The React web application communicates with the ESP32 via WebSockets and HTTP requests. The WebSocket connection is used for real-time updates, while HTTP requests handle fingerprint creation and verification.
 
 - Flutter App
+  
 The Flutter mobile application also integrates with the ESP32 using similar communication methods. Ensure you handle WebSocket connections and HTTP requests properly to interact with the ESP32.
